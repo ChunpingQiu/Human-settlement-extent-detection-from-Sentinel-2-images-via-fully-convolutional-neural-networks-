@@ -1,4 +1,4 @@
-# Use the trained model to prodict HSE from S2 images
+# Use the trained model to predict HSE from S2 images
 ## use demo
 - put the image data (s2) into folder: ./data/img/  
 - run python img2map.py
