@@ -8,10 +8,9 @@
 https://drive.google.com/drive/folders/1n2LGeGAv_O2cvxAJnSGNRUI4FMsm4psa?usp=sharing
 
 ## current status
-I am going to focus regression of HSE, instead of the binary classification. 
+I am going to focus regression of HSE, instead of the binary classification in this project. 
 The framework is similar as this one.
 
-So I will create a new project and upload data and code there.
 
 ## further information
 
